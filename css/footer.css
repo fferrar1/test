@@ -1,0 +1,18 @@
+footer{
+    background-color: var(--second-color);
+    height: 365px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+
+}
+
+footer .container .logo{
+    width: 31vh;
+    height: 32vh;
+    display: flex;
+    padding-left: 127px; 
+}
+
+
